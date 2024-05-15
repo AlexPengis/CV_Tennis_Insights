@@ -1,4 +1,4 @@
-# TennisProject
+# CV tennis insights   by @AlexPengis and @denis_ 
 Tennis analysis using deep learning and machine learning. <br>
 You can check this blog post https://medium.com/@kosolapov.aetp/tennis-analysis-using-deep-learning-and-machine-learning-a5a74db7e2ee for more details
 
@@ -18,9 +18,6 @@ It was used neural network for detection 14 points of tennis court. For more inf
 
 ### How to run
 Prepare a video file with resolution 1280x720
-1. Clone the repository `https://github.com/yastrebksv/TennisProject.git`
-2. Run `pip install -r requirements.txt` to install packages required
-3. Run `python main.py <args>`
 
    
 
